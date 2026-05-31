@@ -109,3 +109,7 @@
 - более информативные признаки из формы сигнала;
 - дополнительная физическая обработка импульса;
 - более сложные стратегии кластеризации и постобработки.
+
+## Ссылка
+
+- Colab Notebook: https://drive.google.com/drive/folders/1hLUYKAcMq4q1qsGK7jql3DxGS6PNSlgw?usp=sharing
