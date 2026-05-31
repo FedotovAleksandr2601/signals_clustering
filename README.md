@@ -112,4 +112,4 @@
 
 ## Ссылка
 
-- Colab Notebook: https://drive.google.com/drive/folders/1hLUYKAcMq4q1qsGK7jql3DxGS6PNSlgw?usp=sharing
+- Colab Notebook с решением задания: https://drive.google.com/drive/folders/1hLUYKAcMq4q1qsGK7jql3DxGS6PNSlgw?usp=sharing
